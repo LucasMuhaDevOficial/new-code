@@ -1,0 +1,17 @@
+db.contacts.insertMany([
+  {
+    name: 'Fulano',
+    email: 'fulano@exemplo.com',
+    phone: '(11) 1111-1111'
+  },
+  {
+    name: 'Ciclano',
+    email: 'ciclano@exemplo.com',
+    phone: '(22) 2222-2222'
+  },
+  {
+    name: 'Beltrano',
+    email: 'beltrano@exemplo.com',
+    phone: '(33) 3333-3333'
+  }
+]);

@@ -1,0 +1,9 @@
+{
+    "name": "central-contato",
+    "version": "1.0.0",
+    "description": "Central de Contato com Docker, Javascript e JSON",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongodb": "^3.6.9"
+    }
+  }
